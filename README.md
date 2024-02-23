@@ -4,7 +4,6 @@ Hi 👋 My name is Yurii
 Web Developer
 -------------
 
-* ✉️  You can contact me at [buchko11@icloud.com](mailto:buchko11@icloud.com )
 * 🧠  I'm learning Layout & JS
 * 🤝  I'm open to collaborating on interesting projects & app
 
